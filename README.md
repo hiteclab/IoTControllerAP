@@ -22,7 +22,7 @@ x is the pin number
 a is the angle
 
 http://192.168.4.1/?SDPIN=x&STATE=s
-Digital Input - Salida Digital
+Digital Output - Salida Digital
 x is the pin number
 s is the state, use the value: 1 to turn ON the pin 
 s is the state, use the value: 0 turn OFF the pin 
