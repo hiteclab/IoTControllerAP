@@ -9,18 +9,18 @@ Fundación Universitaria Los Libertadores, Colombia
 Created using:
 Arduino IDE 1.8.3
 
-**Prerequisites:**
+# Prerequisites:
 
 Install the ESP board support to arduino.
 Start Arduino and open the Preferences window.
 Enter https://arduino.esp8266.com/stable/package_esp8266com_index.json into the Additional Board Manager URLs field.
 Select **esp8266** versión 2.7.1  in Tools -> Board -> Boards Manager
 
-**Install**
+# Install
 
 open the **IoTControllerAP.ino** file in arduino and upload it to your ESP board. 
 
-**How to use:**
+# How to use:
 
 You can use the Processing IoTControllerAPClient or you can use your web browser like this:
 
