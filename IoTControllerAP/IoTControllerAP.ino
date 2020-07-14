@@ -5,6 +5,8 @@
 // Fundación Universitaria Los Libertadores, Colombia
 // Creado usando:
 // Arduino IDE 1.8.3
+// Start Arduino and open the Preferences window.
+// Enter https://arduino.esp8266.com/stable/package_esp8266com_index.json into the Additional Board Manager URLs field.
 // Driver: esp8266 versión 2.7.1 (Tools -> Board -> Boards Manager)
 
 // To use send messages to the ip address: http://192.168.4.1 like this
