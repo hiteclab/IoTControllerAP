@@ -7,7 +7,7 @@ Hiteclab, http://hiteclab.libertadores.edu.co/
 Fundación Universitaria Los Libertadores, Colombia
 
 Created using:
-Arduino IDE 1.8.3
+Arduino IDE 1.8.3 and esp8266 library versión 2.7.1
 
 # Prerequisites:
 
